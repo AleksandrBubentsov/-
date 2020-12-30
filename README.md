@@ -117,4 +117,6 @@ Data science - наука о проблемах обработки, предст
 ### Ссылка на картинку.
 https://netology.ru/blog/wp-content/uploads/2020/01/860.png
 
+### Ссылка на яндекс диск для скачивания реферата.
+https://yadi.sk/d/9k9aIPPNACUO7A?w=1
 
