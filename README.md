@@ -1,4 +1,6 @@
-# Data science.
+
+
+ # Data science.
 
 ## Появление Data science. 
 
@@ -15,8 +17,7 @@ Data science - наука о проблемах обработки, предст
 
 ## Основа Data science.
 
-https://netology.ru/blog/wp-content/uploads/2020/01/860.png
-
+![image](https://netology.ru/blog/wp-content/uploads/2020/01/860.png)
 Рис 1.
 
 Ис­кус­ствен­ный ин­тел­лект (Ar­ti­fi­cial In­tel­li­gence) — данная область фокусируется на создании машин, думающих и работающих как люди. Её воз­ник­но­ве­ние связа­но с по­яв­ле­ни­ем ма­шин Ала­на Тью­рин­га в 1936 году. К сожалению на данный момент, искусственный интеллект все еще не может полностью заменить человека.
@@ -88,4 +89,17 @@ https://netology.ru/blog/wp-content/uploads/2020/01/860.png
 ## Заключение 
 
 Данная отрасль крайне актуальна, и востребована в последнее время, а так как она стала крайне актуальна относительно недавно, существует большой дефицит в кадрах. За счет того, то Data science охватывает Big Data и Ar­ti­fi­cial In­tel­li­gence данная отрасль будет актуальна еще долгое время.
+
+## Список источников.
+
+1. https://www.osp.ru/os/2012/05/13016245 (дата обращения 27.12.2020)
+2. https://blog.skillfactory.ru/perevod/what_is_ds (дата обращения 27.12.2020)
+3. https://www.tadviser.ru/index.php (дата обращения 27.12.2020)
+4. https://www.osp.ru/cio/2018/03/13054275 (дата обращения 27.12.2020)
+5. https://skillbox.ru/media/code/chto_takoe_data_science_i_kto_takoy_data_scientist/ (дата обращения 27.12.2020)
+6. Силен,Мейсман.Основы Data Science и Big Data.Python и наука о данных.2017 
+7. https://netology.ru/blog/01-2020-gid-po-data-science (дата обращения 27.12.2020)
+## Ссылка на картинку.
+https://netology.ru/blog/wp-content/uploads/2020/01/860.png
+
 
